@@ -53,4 +53,4 @@ A medication expiry tracking application designed to help users monitor their me
 ## 📫 Connect With Me
 
 **GitHub:** [https://github.com/davidji-ux](https://github.com/davidji-ux)
-**Email: olarewajujattodavid@gmail.com
+**Email:** olarewajujattodavid@gmail.com
