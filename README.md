@@ -25,11 +25,9 @@ I'm a web developer passionate about building practical, user-focused applicatio
 
 ## 🚀 Projects
 
-### PharmPal
-A practical application designed to help users manage and better understand their medications.
+### 💊 TraRx
 
-### TraRx
-A medication expiry tracking application designed to help users monitor their medicines and reduce the risk of using expired drugs.
+TraRx is a planned application focused on tracking medication expiry dates to help users identify expired medicines and promote medication safety.
 
 ### 🚧 KobiQ — Expense Tracker
 
