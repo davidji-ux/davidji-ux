@@ -31,6 +31,10 @@ A practical application designed to help users manage and better understand thei
 ### TraRx
 A medication expiry tracking application designed to help users monitor their medicines and reduce the risk of using expired drugs.
 
+### 🚧 KobiQ — Expense Tracker
+
+KobiQ is an expense-tracking application I'm currently developing to help users manage their expenses and keep track of their spending.
+
 ## 🎯 Goals
 
 - Become a skilled and well-rounded full-stack developer.
