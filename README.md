@@ -23,15 +23,13 @@ I'm a web developer passionate about building practical, user-focused applicatio
 - Databases
 - Full-Stack Development
 
-## 🚀 Projects
+## 🚀 Projects currently working on
 
 ### 💊 TraRx
 
-TraRx is a planned application focused on tracking medication expiry dates to help users identify expired medicines and promote medication safety.
 
-### 🚧 KobiQ — Expense Tracker
 
-KobiQ is an expense-tracking application I'm currently developing to help users manage their expenses and keep track of their spending.
+### 🚧 KobiQ 
 
 ## 🎯 Goals
 
